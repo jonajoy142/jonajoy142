@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jona Joy</h1>
-<h3 align="center">A passionate frontend-backend developer from India.I'm currently a Third Year B.Tech Information Technology student at School of Engineering, CUSAT and an aspiring software  developer💻. Interested in Application development and Web development using Flutter ,Nodejs etc. </h3>
+<h3 align="center">A passionate frontend-backend developer from India.I'm currently a Third Year B.Tech Information Technology student at School of Engineering, CUSAT and an aspiring software  developer💻. Interested in Application development and Web development using Flutter ,Nodejs . </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonajoy142&label=Profile%20views&color=0e75b6&style=flat" alt="jonajoy142" /> </p>
 
