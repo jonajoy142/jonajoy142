@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonajoy142" alt="jonajoy142" /></a> </p>
 
-- 🔭 I’m currently working on **Pharmacy Management System**
+- 🔭 I’m currently working on **Flutter side Projects and CPP**
 
 - 🌱 I’m currently learning **Flutter,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jonajoy142](https://github.com/jonajoy142)
 
-- 💬 Ask me about **Nodejs,MySQL**
+- 💬 Ask me about **Nodejs,MySQL,c++,c,HTML,CSS,Dart**
 
 - 📫 How to reach me **jonajoy142@gmail.com**
 
