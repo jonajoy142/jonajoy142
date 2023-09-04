@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jona Joy</h1>
-<h3 align="center">A passionate frontend-backend developer from India.I'm currently a Third Year B.Tech Information Technology student at School of Engineering, CUSAT and an aspiring software  developer💻. Interested in Application development and Web development using Flutter ,Nodejs . </h3>
+
+<h3 align="center">Hello! I am a third-year Information Technology student at Cochin University of Science and Technology with a passion for software development. My focus is on developing software applications that are intuitive, user-friendly, and efficient.
+
+Currently, I am learning blockchain technology to expand my skill set. I have experience in web development and Flutter development, which is both valuable tools for creating responsive and scalable applications.
+
+As an aspiring software developer, I am always eager to take on new challenges and collaborate with others to develop innovative solutions. If you are interested in learning more about my work, please feel free to connect with me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonajoy142&label=Profile%20views&color=0e75b6&style=flat" alt="jonajoy142" /> </p>
 
