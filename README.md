@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonajoy142&show_icons=true&locale=en" alt="jonajoy142" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonajoy142&" alt="jonajoy142" /></p>
+
+[![An image of @jonajoy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jonajoy)](https://holopin.io/@jonajoy)
