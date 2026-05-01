@@ -2,88 +2,72 @@
 <h4 align="center">Backend & Distributed Systems Engineer • Payments • Building Toward AI (ML/DL • LLMs)</h4>
 
 <p align="center">
-I design and ship <b>production-grade systems</b> built for real-world transaction volume, reliability, and long-term maintainability.
+I build <b>production-grade systems</b> where real value moves — focusing on scalability, reliability, and full product ownership.
 </p>
 
 <p align="center">
-🔗 Portfolio: <a href="https://www.jonajoy.com">www.jonajoy.com</a>
+🔗 <a href="https://www.jonajoy.com">Portfolio</a> • 💻 <a href="https://leetcode.com/u/jona_joy/">LeetCode</a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 What I'm Doing
 
-- 🎓 B.Tech, Information Technology — <b>Cochin University of Science and Technology (CUSAT)</b>  
-- 🏗️ Founding Engineer at <b>KIREAP</b> — built systems from <b>0 → 1</b>  
-- ⚙️ Backend & Distributed Systems Engineer focused on <b>payments infrastructure</b>  
-- 🤖 Currently transitioning into <b>AI Engineering</b>  
-- 📍 Kochi, India  
+I design and ship <b>end-to-end systems</b> — from architecture to production — with a strong focus on <b>distributed systems, payments infrastructure, and real-world scalability</b>.  
 
----
+At KIREAP, I’ve worked as a <b>founding engineer</b>, building products from <b>0 → 1</b>, making core architecture decisions, and taking full ownership across the product lifecycle.  
 
-### 🧠 Current Focus
+Currently, I’m expanding into <b>AI engineering</b>, working hands-on with <b>ML/DL, LLMs, and foundation model fine-tuning</b> — with the goal of building <b>AI-native systems</b>, not just models.  
 
-- 🤖 Hands-on <b>Machine Learning & Deep Learning</b>  
-- 🧩 Working with <b>LLMs & foundation model fine-tuning</b>  
-- ⚡ Building <b>AI-powered systems</b> (not just models)  
-- 🏗️ Strengthening <b>System Design & Distributed Systems</b>  
-- 📚 Practicing <b>DSA</b> consistently  
+I approach engineering with a <b>founder mindset</b> — thinking in systems, optimizing for scale, and owning outcomes end-to-end.
 
 ---
 
-### 💼 Experience Snapshot
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jonajoy142&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- Built and scaled <b>high-performance backend systems</b> handling real transaction flows  
-- Designed <b>microservices & event-driven architectures</b>  
-- Worked on <b>payment systems (PG, payouts, PSP integrations)</b>  
-- Experience with <b>blockchain-based products</b> (not current focus)  
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jonajoy142" />
+  </a>
+</p>
+
+---
+
+### ⚡ Current Focus
+
+- ⚙️ Distributed Systems & System Design  
+- 💳 Payments (PG, Payouts, PSP integrations)  
+- 🤖 AI Engineering (ML/DL, LLMs, fine-tuning)  
+- 📚 DSA & Problem Solving  
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Backend & Systems**
-- Golang • FastAPI • Node.js  
-- PostgreSQL • Redis  
-- Microservices • Distributed Systems  
-
-**AI / ML (Current Focus)**
-- Python • ML/DL • LLMs  
-- Model Fine-tuning • AI Systems  
-
-**Cloud & Tools**
-- AWS • Docker • CI/CD  
+<p align="left">
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/></a>
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
+</p>
 
 ---
 
 ### 🧩 Problem Solving
 
-- 💻 LeetCode: <a href="https://leetcode.com/u/jona_joy/">jona_joy</a>  
-- Strong focus on <b>DSA + system thinking</b>  
-
----
-
-### 📊 Engineering Mindset
-
-- Think in <b>systems, not scripts</b>  
-- Build for <b>scale, reliability, and efficiency</b>  
-- Focus on <b>real-world impact</b>  
-- Moving toward <b>AI-native system design</b>  
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/jona_.joy"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jona_joy"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jonajoy"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jona_joy?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats (keep the green bars alive 🟢)
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonajoy142&show_icons=true&locale=en&layout=compact" />
@@ -99,7 +83,19 @@ I design and ship <b>production-grade systems</b> built for real-world transacti
 
 ---
 
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+<a href="https://instagram.com/jona_.joy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
+<a href="https://www.codechef.com/users/jonajoy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30"/></a>
+<a href="https://www.hackerrank.com/jonajoy142"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/></a>
+<a href="https://auth.geeksforgeeks.org/user/jonajoy142"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/></a>
+</p>
+
+---
+
 ### ⚡ Philosophy
 
-> I think like an owner and build systems where <b>real value moves</b>.  
-> Now focused on combining <b>AI + systems</b> to build scalable, impactful products.
+> I don’t just write code — I build systems, take ownership, and ship products end-to-end.  
+> Thinking like a founder, optimizing for scale, and now moving toward <b>AI-native systems</b>.
